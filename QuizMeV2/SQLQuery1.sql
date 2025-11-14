@@ -1,0 +1,2 @@
+﻿ALTER TABLE StudySets
+ADD Subject NVARCHAR(100) NULL;
